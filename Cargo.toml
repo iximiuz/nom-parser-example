@@ -1,0 +1,8 @@
+[package]
+name = "nom-parser-example"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+nom = "6.2.1"
+nom_locate = "3.0.1"
